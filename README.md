@@ -21,7 +21,7 @@ Please also see following documents:
 ## 🔍How to use?
 
 ```bash
-sudo bash -c "$(curl -fsSL https://raw.githubusercontent.com/EliasDeHondt/RemoteBashExecutor/refs/heads/main/Tools/menu.sh)"
+bash -c "$(curl -fsSL https://raw.githubusercontent.com/EliasDeHondt/RemoteBashExecutor/refs/heads/main/Tools/menu.sh)"
 ```
 
 ## 🔗Links
