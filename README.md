@@ -1,2 +1,29 @@
-# RemoteBashExecutor
-A straightforward Bash program that enables the remote execution of shell scripts stored in a GitHub repository. This tool simplifies task automation by pulling and executing scripts directly from a repository, making it ideal for remote system management and deployment scenarios.
+![logo](https://eliasdh.com/assets/media/images/logo-github.png)
+# 💙🤍README🤍💙
+
+## 📘Table of Contents
+
+1. [📘Table of Contents](#📘table-of-contents)
+2. [🖖Introduction](#🖖introduction)
+3. [🔗Links](#🔗links)
+
+---
+
+## 🖖Introduction
+
+I kindly request your thorough examination and absorption of the comprehensive documentation incorporated within the confines of this repository. Your diligent review of the diverse materials provided herein will undoubtedly enhance your understanding of the intricacies and nuances associated with the contents therein.
+
+Please also see following documents:
+- [LICENSE](LICENSE.md)
+- [SECURITY](SECURITY.md)
+- [CONTRIBUTING](CONTRIBUTING.md)
+
+## 🔍How to use?
+
+```bash
+sudo bash -c "$(curl -fsSL https://raw.githubusercontent.com/EliasDeHondt/RemoteBashExecutor/refs/heads/main/Tools/menu.sh)"
+```
+
+## 🔗Links
+- 👯 Web hosting company [EliasDH.com](https://eliasdh.com).
+- 📫 How to reach us elias.dehondt@outlook.com
