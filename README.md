@@ -23,6 +23,3 @@ Please also see following documents:
 ```bash
 bash -c "$(curl -fsSL https://raw.githubusercontent.com/EliasDeHondt/RemoteBashExecutor/refs/heads/main/Tools/menu.sh)"
 ```
-
-## 🔗Links
-- 👯 Web hosting company [EliasDH.com](https://eliasdh.com).
