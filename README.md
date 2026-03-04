@@ -26,4 +26,3 @@ bash -c "$(curl -fsSL https://raw.githubusercontent.com/EliasDeHondt/RemoteBashE
 
 ## 🔗Links
 - 👯 Web hosting company [EliasDH.com](https://eliasdh.com).
-- 📫 How to reach us elias.dehondt@outlook.com
